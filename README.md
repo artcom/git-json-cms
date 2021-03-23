@@ -1,3 +1,9 @@
+# Notice
+
+**The development of this project is continued in https://github.com/artcom/acms-compose.**
+
+**For the sake of backwards compatibility this repository is archived and set to read-only.**
+
 # Git JSON CMS
 
 This repository provides a `docker-compose` to setup the Git JSON CMS. It creates multiple containers to manage and serve the git content via GIT/HTTP, asset files via WebDav and the [CMS frontend](https://github.com/artcom/git-json-cms-frontend) to easily modify the configuration.
